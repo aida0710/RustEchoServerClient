@@ -1,5 +1,5 @@
 [package]
-name = "RustEchoServerClient"
+name = "rust_echo_server_client"
 version = "0.1.0"
 edition = "2021"
 
